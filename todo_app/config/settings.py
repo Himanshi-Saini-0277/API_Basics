@@ -1,0 +1,5 @@
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASSWORD = "Hima@0277"
+DB_NAME = "todo_list_db"
+SECRET_KEY = "secret123"
